@@ -1,0 +1,22 @@
+{
+  "name": "site-21k",
+  "version": "1.0.0",
+  "description": "Site da 21K",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuri Martins",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-batch": "^1.0.5",
+    "gulp-cli": "^0.3.0",
+    "gulp-livereload": "^3.8.1",
+    "gulp-sass": "^2.1.0",
+    "gulp-watch": "^4.3.5"
+  },
+  "dependencies": {
+    "material-design-lite": "^1.0.6"
+  }
+}
